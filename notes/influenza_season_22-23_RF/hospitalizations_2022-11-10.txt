@@ -21,7 +21,7 @@ Avg. of Prev. 7 days: 33.0
 Avg. of Prev. 14 days: 26.57
 Avg. of Prev. 14-7 days: 20.14
 Days remaining until 2022-11-20: 10
-Multiplier for last 70 days (7-batched):
+Multipliers for last 70 days (7-batched):
 [0.889, 1.125, 0.778, 2.714, 1.132, 1.0, 1.767, 1.855, 1.638]
 
 Florida (FL)
@@ -47,7 +47,7 @@ Avg. of Prev. 7 days: 56.43
 Avg. of Prev. 14 days: 48.07
 Avg. of Prev. 14-7 days: 39.71
 Days remaining until 2022-11-20: 10
-Multiplier for last 70 days (7-batched):
+Multipliers for last 70 days (7-batched):
 [1.101, 0.895, 1.044, 1.563, 0.91, 1.01, 1.755, 1.553, 1.421]
 
 Arizona (AZ)
@@ -73,7 +73,7 @@ Avg. of Prev. 7 days: 16.57
 Avg. of Prev. 14 days: 11.71
 Avg. of Prev. 14-7 days: 6.86
 Days remaining until 2022-11-20: 10
-Multiplier for last 70 days (7-batched):
+Multipliers for last 70 days (7-batched):
 [0.25, 1.75, 1.714, 1.333, 0.75, 1.833, 0.682, 3.2, 2.417]
 
 California (CA)
@@ -99,7 +99,7 @@ Avg. of Prev. 7 days: 93.86
 Avg. of Prev. 14 days: 69.5
 Avg. of Prev. 14-7 days: 45.14
 Days remaining until 2022-11-20: 10
-Multiplier for last 70 days (7-batched):
+Multipliers for last 70 days (7-batched):
 [0.659, 0.815, 2.5, 1.218, 1.522, 1.039, 1.321, 2.257, 2.079]
 
 Pennsylvania (PA)
@@ -125,7 +125,7 @@ Avg. of Prev. 7 days: 38.29
 Avg. of Prev. 14 days: 34.0
 Avg. of Prev. 14-7 days: 29.71
 Days remaining until 2022-11-20: 10
-Multiplier for last 70 days (7-batched):
+Multipliers for last 70 days (7-batched):
 [0.821, 0.969, 1.194, 1.595, 1.169, 1.203, 1.53, 1.638, 1.288]
 
 Texas (TX)
@@ -151,6 +151,6 @@ Avg. of Prev. 7 days: 152.86
 Avg. of Prev. 14 days: 139.0
 Avg. of Prev. 14-7 days: 125.14
 Days remaining until 2022-11-20: 10
-Multiplier for last 70 days (7-batched):
+Multipliers for last 70 days (7-batched):
 [1.659, 0.89, 0.983, 1.521, 1.536, 1.417, 1.515, 1.467, 1.221]
 
