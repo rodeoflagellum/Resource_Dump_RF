@@ -22,6 +22,8 @@ Avg. of Prev. 14 days: 42.0
 Avg. of Prev. 14-7 days: 31.43
 Days until 2022-11-20 is measured: 5
 Multipliers for last 50 days (batch 5):
+56.6
+[1.273, 1.25, 0.8, 1.107, 2.032, 1.333, 1.857, 1.16, 1.564]
 
 Florida (FL)
 
@@ -47,6 +49,8 @@ Avg. of Prev. 14 days: 61.14
 Avg. of Prev. 14-7 days: 52.0
 Days until 2022-11-20 is measured: 5
 Multipliers for last 50 days (batch 5):
+69.2
+[1.379, 0.912, 1.027, 1.28, 1.354, 1.423, 1.249, 1.407, 1.065]
 
 Arizona (AZ)
 
@@ -72,6 +76,8 @@ Avg. of Prev. 14 days: 22.14
 Avg. of Prev. 14-7 days: 15.57
 Days until 2022-11-20 is measured: 5
 Multipliers for last 50 days (batch 5):
+31.0
+[2.0, 0.429, 2.167, 1.385, 0.556, 3.2, 2.125, 1.338, 1.703]
 
 California (CA)
 
@@ -97,6 +103,8 @@ Avg. of Prev. 14 days: 118.79
 Avg. of Prev. 14-7 days: 84.71
 Days until 2022-11-20 is measured: 5
 Multipliers for last 50 days (batch 5):
+163.0
+[0.981, 1.528, 0.79, 1.328, 1.271, 1.778, 1.729, 1.741, 1.41]
 
 Pennsylvania (PA)
 
@@ -122,6 +130,8 @@ Avg. of Prev. 14 days: 45.93
 Avg. of Prev. 14-7 days: 39.71
 Days until 2022-11-20 is measured: 5
 Multipliers for last 50 days (batch 5):
+54.8
+[1.243, 0.913, 1.405, 1.085, 1.609, 1.388, 1.196, 1.368, 1.171]
 
 Texas (TX)
 
@@ -147,4 +157,5 @@ Avg. of Prev. 14 days: 154.36
 Avg. of Prev. 14-7 days: 151.86
 Days until 2022-11-20 is measured: 5
 Multipliers for last 50 days (batch 5):
-
+163.4
+[1.48, 1.385, 1.18, 1.36, 1.401, 1.291, 1.198, 1.07, 1.071]
