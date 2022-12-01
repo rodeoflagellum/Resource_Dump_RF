@@ -20,7 +20,12 @@ Last 15 Entries for NY
 Avg. of Prev. 7 days: 161.86
 Avg. of Prev. 14 days: 125.71
 Avg. of Prev. 14-7 days: 89.57
-Days until 2023-01-01 is measured: 32
+Days until 2022-12-04 is measured: 4 (~1 weeks)
+Days until 2022-12-18 is measured: 18 (~3 weeks)
+Days until 2023-01-01 is measured: 32 (~5 weeks)
+Multipliers for last 7 days (batch 7):
+161.85714285714286
+[2.714, 1.132, 1.0, 1.767, 1.855, 1.716, 1.64, 1.579, 1.807]
 
 Florida (FL)
 
@@ -44,7 +49,12 @@ Last 15 Entries for FL
 Avg. of Prev. 7 days: 125.0
 Avg. of Prev. 14 days: 106.71
 Avg. of Prev. 14-7 days: 88.43
-Days until 2023-01-01 is measured: 32
+Days until 2022-12-04 is measured: 4 (~1 weeks)
+Days until 2022-12-18 is measured: 18 (~3 weeks)
+Days until 2023-01-01 is measured: 32 (~5 weeks)
+Multipliers for last 7 days (batch 7):
+125.0
+[1.563, 0.91, 1.01, 1.755, 1.553, 1.414, 1.254, 1.256, 1.414]
 
 Arizona (AZ)
 
@@ -68,7 +78,12 @@ Last 15 Entries for AZ
 Avg. of Prev. 7 days: 105.0
 Avg. of Prev. 14 days: 84.0
 Avg. of Prev. 14-7 days: 63.0
-Days until 2023-01-01 is measured: 32
+Days until 2022-12-04 is measured: 4 (~1 weeks)
+Days until 2022-12-18 is measured: 18 (~3 weeks)
+Days until 2023-01-01 is measured: 32 (~5 weeks)
+Multipliers for last 7 days (batch 7):
+105.0
+[1.333, 0.75, 1.833, 0.682, 3.2, 2.479, 1.891, 1.96, 1.667]
 
 California (CA)
 
@@ -92,7 +107,12 @@ Last 15 Entries for CA
 Avg. of Prev. 7 days: 451.0
 Avg. of Prev. 14 days: 374.21
 Avg. of Prev. 14-7 days: 297.43
-Days until 2023-01-01 is measured: 32
+Days until 2022-12-04 is measured: 4 (~1 weeks)
+Days until 2022-12-18 is measured: 18 (~3 weeks)
+Days until 2023-01-01 is measured: 32 (~5 weeks)
+Multipliers for last 7 days (batch 7):
+451.0
+[1.218, 1.627, 0.972, 1.321, 2.257, 2.108, 1.758, 1.778, 1.516]
 
 Pennsylvania (PA)
 
@@ -116,7 +136,12 @@ Last 15 Entries for PA
 Avg. of Prev. 7 days: 169.29
 Avg. of Prev. 14 days: 123.64
 Avg. of Prev. 14-7 days: 78.0
-Days until 2023-01-01 is measured: 32
+Days until 2022-12-04 is measured: 4 (~1 weeks)
+Days until 2022-12-18 is measured: 18 (~3 weeks)
+Days until 2023-01-01 is measured: 32 (~5 weeks)
+Multipliers for last 7 days (batch 7):
+169.28571428571428
+[1.595, 1.169, 1.203, 1.53, 1.638, 1.37, 1.351, 1.418, 2.17]
 
 Texas (TX)
 
@@ -140,4 +165,9 @@ Last 15 Entries for TX
 Avg. of Prev. 7 days: 322.57
 Avg. of Prev. 14 days: 265.93
 Avg. of Prev. 14-7 days: 209.29
-Days until 2023-01-01 is measured: 32
+Days until 2022-12-04 is measured: 4 (~1 weeks)
+Days until 2022-12-18 is measured: 18 (~3 weeks)
+Days until 2023-01-01 is measured: 32 (~5 weeks)
+Multipliers for last 7 days (batch 7):
+322.57142857142856
+[1.521, 1.536, 1.417, 1.515, 1.467, 1.221, 1.035, 1.323, 1.541]
