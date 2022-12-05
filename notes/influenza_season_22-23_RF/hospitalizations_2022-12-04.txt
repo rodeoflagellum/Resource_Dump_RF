@@ -21,6 +21,8 @@ Avg. of Prev. 7 days: 190.43
 Avg. of Prev. 14 days: 151.36
 Avg. of Prev. 14-7 days: 112.29
 Days until 2023-01-01 is measured: 29
+190.42857142857142
+[1.357, 1.263, 0.896, 2.465, 1.792, 1.463, 1.784, 1.585, 1.696]
 
 Florida (FL)
 
