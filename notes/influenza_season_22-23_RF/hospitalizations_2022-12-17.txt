@@ -20,7 +20,10 @@ Last 15 Entries for NY
 Avg. of Prev. 7 days: 251.14
 Avg. of Prev. 14 days: 229.71
 Avg. of Prev. 14-7 days: 208.29
-Days until 2023-01-01 is measured: 16
+Days until 2023-01-01 is measured: 16 (~2 weeks)
+Days until 2023-01-15 is measured: 30 (~4 weeks)
+Days until 2023-01-29 is measured: 44 (~6 weeks)
+Multipliers for last 7 days (batch 7):
 
 Florida (FL)
 
@@ -44,7 +47,10 @@ Last 15 Entries for FL
 Avg. of Prev. 7 days: 109.57
 Avg. of Prev. 14 days: 114.21
 Avg. of Prev. 14-7 days: 118.86
-Days until 2023-01-01 is measured: 16
+Days until 2023-01-01 is measured: 16 (~2 weeks)
+Days until 2023-01-15 is measured: 30 (~4 weeks)
+Days until 2023-01-29 is measured: 44 (~6 weeks)
+Multipliers for last 7 days (batch 7):
 
 Arizona (AZ)
 
@@ -68,7 +74,10 @@ Last 15 Entries for AZ
 Avg. of Prev. 7 days: 82.29
 Avg. of Prev. 14 days: 99.29
 Avg. of Prev. 14-7 days: 116.29
-Days until 2023-01-01 is measured: 16
+Days until 2023-01-01 is measured: 16 (~2 weeks)
+Days until 2023-01-15 is measured: 30 (~4 weeks)
+Days until 2023-01-29 is measured: 44 (~6 weeks)
+Multipliers for last 7 days (batch 7):
 
 California (CA)
 
@@ -92,7 +101,10 @@ Last 15 Entries for CA
 Avg. of Prev. 7 days: 238.57
 Avg. of Prev. 14 days: 302.57
 Avg. of Prev. 14-7 days: 366.57
-Days until 2023-01-01 is measured: 16
+Days until 2023-01-01 is measured: 16 (~2 weeks)
+Days until 2023-01-15 is measured: 30 (~4 weeks)
+Days until 2023-01-29 is measured: 44 (~6 weeks)
+Multipliers for last 7 days (batch 7):
 
 Pennsylvania (PA)
 
@@ -116,7 +128,10 @@ Last 15 Entries for PA
 Avg. of Prev. 7 days: 138.86
 Avg. of Prev. 14 days: 158.21
 Avg. of Prev. 14-7 days: 177.57
-Days until 2023-01-01 is measured: 16
+Days until 2023-01-01 is measured: 16 (~2 weeks)
+Days until 2023-01-15 is measured: 30 (~4 weeks)
+Days until 2023-01-29 is measured: 44 (~6 weeks)
+Multipliers for last 7 days (batch 7):
 
 Texas (TX)
 
@@ -140,4 +155,7 @@ Last 15 Entries for TX
 Avg. of Prev. 7 days: 218.43
 Avg. of Prev. 14 days: 242.43
 Avg. of Prev. 14-7 days: 266.43
-Days until 2023-01-01 is measured: 16
+Days until 2023-01-01 is measured: 16 (~2 weeks)
+Days until 2023-01-15 is measured: 30 (~4 weeks)
+Days until 2023-01-29 is measured: 44 (~6 weeks)
+Multipliers for last 7 days (batch 7):
